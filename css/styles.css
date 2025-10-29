@@ -18,6 +18,29 @@ a {
     text-decoration: none;
 }
 
+h1,
+h2,
+h3,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+}
+
+.container {
+    max-width: 1128px;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
