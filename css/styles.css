@@ -42,8 +42,7 @@ img {
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-left: 0;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 /* header */
